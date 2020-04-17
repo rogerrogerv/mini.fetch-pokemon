@@ -1,0 +1,37 @@
+{
+  "name": "mini.fetch-pokemon",
+  "version": "1.0.0",
+  "description": "前回ポケモンを検索したときは、高階関数とその使用方法について学習しました。",
+  "main": "pokemonager.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerrogerv/cc12-mini.fetch-pokemon.git"
+  },
+  "keywords": [
+    "Pokemon",
+    "fetch",
+    "CC12",
+    "Code",
+    "Chrysalis",
+    "axios"
+  ],
+  "author": "Roger V <>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogerrogerv/cc12-mini.fetch-pokemon/issues"
+  },
+  "homepage": "https://github.com/rogerrogerv/cc12-mini.fetch-pokemon#readme"
+}
