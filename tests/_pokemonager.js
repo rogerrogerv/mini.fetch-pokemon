@@ -1,4 +1,7 @@
 const expect = chai.expect;
+// const axios = require("axios");
+// const { names, underWeight } = require("../pokemons");
+// const Pokemonager = require("../pokemonager");
 
 let pokemonager;
 
